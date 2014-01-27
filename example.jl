@@ -25,7 +25,7 @@ put(app, r"^/put$") do
     "This is a PUT"
 end
 
-#An http put route
+#An http delete route
 delete(app, r"^/delete$") do
     "This is a DELETE"
 end
