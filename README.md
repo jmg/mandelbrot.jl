@@ -3,6 +3,14 @@ MandelBrot
 
 Flask/Sinatra like Micro Framework.
 
+####Installation
+
+```julia
+#Inside julia repl
+pkg.add("MandelBrot")
+```
+
+
 ####Usage
 
 ```julia
