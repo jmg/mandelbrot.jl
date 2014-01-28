@@ -7,7 +7,7 @@ Flask/Sinatra like Micro Framework.
 
 ```julia
 #Inside julia repl
-pkg.add("MandelBrot")
+Pkg.add("MandelBrot")
 ```
 
 
