@@ -1,11 +1,3 @@
-MandelBrot
-==========
-
-Flask/Sinatra like Micro Framework.
-
-####Usage
-
-```julia
 using MandelBrot
 
 #Get a MandelBrot app.
@@ -39,8 +31,3 @@ end
     
 #Run the app on localhost. The default port is 8000.
 run(app, 8000)
-```
-
-#### Warning!
-
-This is under development. For a real world sinatra-like framework refer to [Morsel](https://github.com/JuliaLang/Morsel.jl)
